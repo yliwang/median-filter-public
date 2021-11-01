@@ -1,1 +1,1 @@
-# median-filter-public
+Implementation of an image median filter
